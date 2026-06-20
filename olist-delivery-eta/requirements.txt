@@ -1,0 +1,13 @@
+pandas
+numpy
+lightgbm
+scikit-learn
+matplotlib
+seaborn
+neo4j
+fastapi
+uvicorn
+joblib
+kaggle
+mlflow
+confluent-kafka
